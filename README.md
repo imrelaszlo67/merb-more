@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fixed RTDETR GFLOPs bug (#7309)
